@@ -31,6 +31,10 @@
             android:icon="@drawable/ic_directions"
             android:title="@string/get_directions" />
         <item
+            android:id="@+id/get_distance_app"
+            android:icon="@drawable/ic_get_distance"
+            android:title="@string/get_distance" />
+        <item
             android:id="@+id/compass_app"
             android:icon="@drawable/ic_compass"
             android:title="@string/compass" />

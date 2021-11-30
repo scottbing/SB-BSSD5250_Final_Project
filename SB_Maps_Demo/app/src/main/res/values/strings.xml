@@ -35,6 +35,7 @@
     <string name="take_a_picture">Take a Picture</string>
     <string name="find_an_address">Find an Address</string>
     <string name="get_directions">Get Directions</string>
+    <string name="get_distance">Get Distance</string>
     <string name="compass">Compass</string>
 
     <!-- Navigation vector URL-->
