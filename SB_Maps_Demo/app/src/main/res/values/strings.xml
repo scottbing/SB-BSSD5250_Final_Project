@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SB_Maps_Demo</string>
+    <string name="take_picture">Take picture</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_web_view">Web View</string>
+    <string name="title_activity_gestures">Gestures</string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="title_activity_compass">Compass</string>
+    <string name="title_activity_find_address">Find Address</string>
+    <string name="title_activity_get_directions">Get Directions</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_reminder">new Reminder</string>
+    <string name="exit">exit</string>
+    <string name="dialog_delete_confirm">Are you sure?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="address_search_hint">Enter address</string>
+    <string name="geo_locate_error">Geocode failed on address.</string>
+    <string name="location_not_found">No location with that name: </string>
+    <string name="suggestion">Suggestion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reminders">Reminders</string>
+    <string name="android_studio_android_com">android.studio@android.com</string>
+    <string name="reminder_text">Reminder Text</string>
+    <string name="add_a_reminder">Add a Reminder</string>
+    <string name="refresh_the_database">Refresh the database</string>
+    <string name="learn_more_about_android">Learn More About Android</string>
+    <string name="pinch_gesture">Pinch Gesture</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="find_an_address">Find an Address</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="compass">Compass</string>
+
+    <!-- Navigation vector URL-->
+    <string name="navigation_vector">https://www.arcgis.com/sharing/rest/content/items/dcbbba0edf094eaa81af19298b9c6247/resources/styles/root.json</string>
+    <string name="routing_service">https://sampleserver6.arcgisonline.com/arcgis/rest/services/NetworkAnalysis/SanDiego/NAServer/Route</string>
+    <!-- Drawer strings-->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="progress_title">Finding Route</string>
+    <string name="progress_message">Please wait&#8230;</string>
+</resources>

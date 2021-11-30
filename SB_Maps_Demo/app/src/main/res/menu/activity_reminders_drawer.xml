@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/add_a_reminder"
+            android:icon="@drawable/ic_add_entry"
+            android:title="@string/add_a_reminder" />
+        <item
+            android:id="@+id/refreshdb_app"
+            android:icon="@drawable/ic_exit_to_app"
+            android:title="@string/refresh_the_database" />
+        <item
+            android:id="@+id/webview_app"
+            android:icon="@drawable/ic_internet_web_browser"
+            android:title="@string/learn_more_about_android" />
+        <item
+            android:id="@+id/gestures_app"
+            android:icon="@drawable/ic_touch_gesture_pinch"
+            android:title="@string/pinch_gesture" />
+        <item
+            android:id="@+id/camera_app"
+            android:icon="@drawable/ic_camera"
+            android:title="@string/take_a_picture" />
+        <item
+            android:id="@+id/find_address_app"
+            android:icon="@drawable/ic_find_address"
+            android:title="@string/find_an_address" />
+        <item
+            android:id="@+id/get_directions_app"
+            android:icon="@drawable/ic_directions"
+            android:title="@string/get_directions" />
+        <item
+            android:id="@+id/compass_app"
+            android:icon="@drawable/ic_compass"
+            android:title="@string/compass" />
+        <item
+            android:id="@+id/exit_app"
+            android:icon="@drawable/ic_exit_to_app"
+            android:title="@string/exit" />
+    </group>
+</menu>

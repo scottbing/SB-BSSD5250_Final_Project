@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/drawable/ic_find_address_background.xml" value="0.15572916666666667" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_camera.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_compass.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_gestures.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_main.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_reminders.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_web.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/app_bar_reminders.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/content_reminders.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/dialog_custom.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/fragment_delete_confirmation_dialog.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/fragment_delete_confirmation_dialog2.xml" value="0.12273550724637682" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/nav_header_reminders.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/reminders_row.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/menu/activity_reminders_drawer.xml" value="0.14322916666666666" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/menu/cam_menu.xml" value="0.1140625" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/menu/menu_reminders.xml" value="0.1140625" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/menu/reminders.xml" value="0.1140625" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/mipmap-anydpi-v26/ic_find_address.xml" value="0.15572916666666667" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/mipmap-anydpi-v26/ic_find_address_round.xml" value="0.1703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
