@@ -7,7 +7,10 @@
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_camera.xml" value="0.1413373860182371" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_compass.xml" value="0.1413373860182371" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_gestures.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_get_distance.xml" value="0.1" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_google_maps.xml" value="0.12708333333333333" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_main.xml" value="0.1413373860182371" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_maps.xml" value="0.1" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_reminders.xml" value="0.1413373860182371" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/activity_web.xml" value="0.1413373860182371" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/app_bar_reminders.xml" value="0.1413373860182371" />
@@ -19,6 +22,7 @@
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/layout/reminders_row.xml" value="0.1413373860182371" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/menu/activity_reminders_drawer.xml" value="0.14322916666666666" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/menu/cam_menu.xml" value="0.1140625" />
+        <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/menu/menu_main.xml" value="0.12129629629629629" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/menu/menu_reminders.xml" value="0.1140625" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/menu/reminders.xml" value="0.1140625" />
         <entry key="..\:/tmp/BSSD5250/final/SB_Maps_Demo/app/src/main/res/mipmap-anydpi-v26/ic_find_address.xml" value="0.15572916666666667" />

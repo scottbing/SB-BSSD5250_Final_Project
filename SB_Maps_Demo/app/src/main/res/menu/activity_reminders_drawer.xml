@@ -39,6 +39,10 @@
             android:icon="@drawable/ic_compass"
             android:title="@string/compass" />
         <item
+            android:id="@+id/google_maps_app"
+            android:icon="@drawable/ic_google_maps"
+            android:title="@string/google_maps" />
+        <item
             android:id="@+id/exit_app"
             android:icon="@drawable/ic_exit_to_app"
             android:title="@string/exit" />

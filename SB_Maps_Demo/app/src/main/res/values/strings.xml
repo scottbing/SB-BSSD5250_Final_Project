@@ -26,6 +26,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="reminders">Reminders</string>
+    <string name="sb_maps_demo">SB Maps Demo</string>
     <string name="android_studio_android_com">android.studio@android.com</string>
     <string name="reminder_text">Reminder Text</string>
     <string name="add_a_reminder">Add a Reminder</string>
@@ -37,6 +38,8 @@
     <string name="get_directions">Get Directions</string>
     <string name="get_distance">Get Distance</string>
     <string name="compass">Compass</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
 
     <!-- Navigation vector URL-->
     <string name="navigation_vector">https://www.arcgis.com/sharing/rest/content/items/dcbbba0edf094eaa81af19298b9c6247/resources/styles/root.json</string>

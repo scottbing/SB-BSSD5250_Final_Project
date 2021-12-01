@@ -16,6 +16,7 @@
 
 package edu.nmhu.bssd5250.sb_maps_demo
 
+import android.annotation.SuppressLint
 import android.graphics.Color
 import android.os.Bundle
 import android.view.MotionEvent
@@ -50,6 +51,7 @@ class GetDistanceActivity : AppCompatActivity() {
         activityGetDistanceBinding.mapView
     }
 
+    @SuppressLint("ClickableViewAccessibility")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(activityGetDistanceBinding.root)

@@ -319,7 +319,11 @@ class RemindersActivity : AppCompatActivity(), NavigationView.OnNavigationItemSe
             Log.d("Directions", "Directions")
             val intent = Intent(this@RemindersActivity, GetDirectionsActivity::class.java)
             startActivity(intent)
-        } else if (id == R.id.get_distance_app) {
+        } else if (id == R.id.google_maps_app) {
+            Log.d("Google", "Google")
+            val intent = Intent(this@RemindersActivity, GoogleMapsActivity::class.java)
+            startActivity(intent)
+        }else if (id == R.id.get_distance_app) {
             Log.d("Distance", "Distance")
             val intent = Intent(this@RemindersActivity, GetDistanceActivity::class.java)
             startActivity(intent)
