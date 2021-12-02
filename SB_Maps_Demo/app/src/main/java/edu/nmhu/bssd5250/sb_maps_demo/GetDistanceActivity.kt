@@ -32,12 +32,27 @@ import com.esri.arcgisruntime.mapping.view.GraphicsOverlay
 import com.esri.arcgisruntime.mapping.view.MapView
 import com.esri.arcgisruntime.symbology.SimpleLineSymbol
 import com.esri.arcgisruntime.symbology.SimpleMarkerSymbol
+import com.esri.arcgisruntime.tasks.geocode.GeocodeParameters
+import com.esri.arcgisruntime.tasks.geocode.LocatorTask
 import edu.nmhu.bssd5250.sb_maps_demo.databinding.ActivityGetDistanceBinding
 import kotlin.math.roundToInt
 
 private const val API_KEY = BuildConfig.API_KEY
 
 class GetDistanceActivity : AppCompatActivity() {
+
+    private var orig: String? = null
+    private var dest: String? = null
+
+    companion object{
+        const val ORIG_REQUESTED:String = "edu.nmhu.bssd5250.sb_maps_demo.ORIG_REQUESTED"
+    }
+
+    private var addressGeocodeParameters: GeocodeParameters? = null
+    // create a picture marker symbol
+    private val locatorTask: LocatorTask by lazy {
+        LocatorTask("https://geocode-api.arcgis.com/arcgis/rest/services/World/GeocodeServer")
+    }
 
     private val srWgs84 = SpatialReferences.getWgs84()
     private val unitOfMeasurement = LinearUnit(LinearUnitId.KILOMETERS)
